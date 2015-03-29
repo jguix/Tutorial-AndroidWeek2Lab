@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/juangui/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="/Users/juangui/AndroidStudioProjects/Lab2_ActivityLab/app/build/intermediates/pre-dexed/debug/support-v4-19.0.0-1729260c77ecd2f3bb26d0e5783a4eb63f479957.jar" />
+    </item>
+    <item
+        jar="/Users/juangui/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.0.1/d4edea7767f3c98a38d73761709d4bacf20eac5e/robotium-solo-5.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4edea7767f3c98a38d73761709d4bacf20eac5e">
+        <dex dex="/Users/juangui/AndroidStudioProjects/Lab2_ActivityLab/app/build/intermediates/pre-dexed/androidTest/debug/robotium-solo-5.0.1-32828b466e8d321e356ec0023d693ea12114cd18.jar" />
+    </item>
+
+</items>

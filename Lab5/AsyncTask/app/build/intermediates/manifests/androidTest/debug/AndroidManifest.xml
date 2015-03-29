@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="course.labs.asynctasklab.tests"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for course.labs.asynctasklab"
+        android:targetPackage="course.labs.asynctasklab" />
+
+    <application android:label="course.labs.asynctasklab.tests" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>
